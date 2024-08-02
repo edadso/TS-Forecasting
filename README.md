@@ -8,7 +8,7 @@ In response to these challenges, this project aims to develop a machine learning
 
 ## Methodoloy
 This project adheres to the CRISP-DM (Cross-Industry Standard Process for Data Mining) Framework, a widely recognized approach for data science initiatives.
-We aim to develop and evaluate multiple models to accurately forecast sales in a time series context. Leveraging historical data, we will implement and compare the performance of four distinct models:
+We aim to develop and evaluate multiple models to accurately forecast sales in a time series context. Leveraging historical data, we will implement and compare the performance of five distinct models:
 - ARIMA (AutoRegressive Integrated Moving Average)
 - SARIMA (Seasonal AutoRegressive Integrated Moving Average)
 - Linear Regression
@@ -16,10 +16,6 @@ We aim to develop and evaluate multiple models to accurately forecast sales in a
 - GradientBoost Regressor
 
 By exploring and contrasting the strengths and limitations of each model, we seek to identify the most performing model for prediction.
-
-### Hypothesis Testing
-**Null Hypothesis (Ho):** Promotion has no statistical significant influence on sales<br>
-**Alternate Hypothesis (Ha):** Promotion has statistical significant influence on sales
 
 ## Data Understanding
 Three dataframes were extracted from Microsoft SQL Server, and four datasets were sourced from other locations including a GitHub repository and Google Drive for this project. Below is a summary of the features present in these datasets, providing an overview of the data used.
