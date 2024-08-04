@@ -45,6 +45,6 @@ Three dataframes were extracted from Microsoft SQL Server, and four datasets wer
 - **LinkedIn**: [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)
 
 #### Below is an image of my dashboard. Kindly take a look and give me feedbacks on what could have been done better
-<img src="images\Time series analysis dashboard image.JPG" width="750" height="450" />
+<img src="images\Dashboard_image.JPG" width="750" height="450" />
 
 
