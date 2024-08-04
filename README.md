@@ -36,12 +36,15 @@ Three dataframes were extracted from Microsoft SQL Server, and four datasets wer
 14. `type`: Type of store.
 
 ## Project Links
-- **Published Article**:
-- **PowerBI Dashboard**:
+- **Published Article**: [Article](https://medium.com/@emmanueldadson36/time-series-regression-analysis-ec7bff948420)
+- **PowerBI Dashboard**: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM2MThhY2YtOTRmOC00MDA3LTlkY2QtMjM4MzkwMzM4ZDdlIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
-### Author Information
+## Author Information
 - **Name**: Emmanuel Dadson
 - **Email Address**: [Emmanuel Dadson](emmanueldadson36@gmail.com)
 - **LinkedIn**: [Emmanuel Dadson](https://www.linkedin.com/in/emmanuel-dadson)
+
+#### Below is an image of my dashboard. Kindly take a look and give me feedbacks on what could have been done better
+<img src="images\Time series analysis dashboard image.JPG" width="750" height="450" />
 
 
